@@ -110,4 +110,4 @@ _____________________________
 |#101| mobishop   | [Demo](https://toidicode.github.io/template/101-mobishop/) | [Download](https://github.com/toidicode/template/raw/master/src/101-mobishop.zip/) |
 
 ## Have issure?
-- If you have any problem about copyright, please contact me, email: **thanhtai96nd@gmail.com**
+- If you have any problem about copyright, please contact me, email: **rajukhan9873121926@gmail.com**
